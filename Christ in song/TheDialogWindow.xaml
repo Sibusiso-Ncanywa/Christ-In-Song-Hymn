@@ -1,0 +1,27 @@
+﻿<Window x:Class="Christ_in_song.TheDialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Christ_in_song"
+        xmlns:core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+        mc:Ignorable="d"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        Title="{Binding Title}" 
+        WindowStartupLocation="CenterScreen"
+        MinHeight="{Binding WindowMinimumHeight}"
+        MinWidth="{Binding WindowMinimumWidth}"
+        Style="{StaticResource TheDialog_Window}"
+        ResizeMode="NoResize"
+        SizeToContent="WidthAndHeight">
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome ResizeBorderThickness="{Binding ResizeBorderThickness}"
+                             CaptionHeight="{Binding TitleHeight}"
+                             GlassFrameThickness="0"/>
+    </WindowChrome.WindowChrome>
+
+        <ContentControl FontSize="{StaticResource FontSizeRegular}" Content="{Binding Content}"/>
+
+</Window>

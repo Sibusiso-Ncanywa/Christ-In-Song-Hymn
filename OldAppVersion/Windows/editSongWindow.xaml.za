@@ -1,0 +1,142 @@
+﻿<Window x:Class="Christ_in_song.editSongWindow"
+        x:Name="editSongWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Christ_in_song"
+        mc:Ignorable="d"
+        Loaded="EditSongWin_Loaded"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Title="Edit Song" 
+        Height="708" 
+        Width="675"
+        MinHeight="707"
+        MinWidth="670">
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome
+            ResizeBorderThickness="{Binding ResizeBorderThickness}"
+            CaptionHeight="{Binding TitleHeight}"
+            GlassFrameThickness="0"
+            />
+    </WindowChrome.WindowChrome>
+
+    <Border Padding="5 0 5 5">
+        <Grid Margin="0 0 0 10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="37*"/>
+                <RowDefinition Height="500*"/>
+                <RowDefinition Height="115*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Margin="0 0 0 5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="66*"/>
+                    <ColumnDefinition Width="111*"/>
+                    <ColumnDefinition Width="66*"/>
+                    <ColumnDefinition Width="329*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Song key, number and name -->
+                <TextBlock x:Name="editSongKey" Text="Key is: "
+                           Padding="5 5 0 0"
+                           Foreground="{StaticResource BackgroundVeryLightBrush}"
+                           FontSize="{StaticResource FontSizeRegular}"
+                           Grid.Column="0" />
+                
+                <TextBox x:Name="editDisplayKey"
+                           Padding="0 5 0 0"
+                           Margin="5 0 5 2.5"
+                           Background="Transparent"
+                           FontWeight="Normal"
+                           Foreground="{StaticResource BackgroundLightBrush}"
+                           FontFamily="{StaticResource ComicSansBold}"
+                           FontSize="{StaticResource FontSizeRegular}"
+                           Grid.Column="1" />
+                <TextBlock x:Name="editSongNumber" 
+                           Padding="5 5 0 0"
+                           Margin="10 0"
+                           TextAlignment="Center"
+                           Foreground="{StaticResource BackgroundVeryLightBrush}"
+                           FontSize="{StaticResource FontSizeRegular}"
+                           Grid.Column="2" />
+                <TextBlock x:Name="editSongName"
+                           Margin="5 0 0 0"
+                           Padding="5 5 0 0"
+                           Foreground="{StaticResource BackgroundVeryLightBrush}"
+                           FontSize="{StaticResource FontSizeRegular}"
+                           Grid.Column="3" />
+            </Grid>
+
+            <!-- Display lyrics -->
+            <TextBox  Grid.Row="1"
+                      TextWrapping="Wrap"
+                      x:Name="editsongLyricsTextBox" 
+                      Margin="0 5 0 0"
+                      Cursor="IBeam"
+                      SelectionBrush="{StaticResource cisGreenishBrush}"
+                      FontFamily="{StaticResource ComicSansBold}"
+                      FontSize="{StaticResource FontSizeRegular}" 
+                      AcceptsReturn="True"/>
+
+            <Grid Grid.Row="2" Margin="0 0 0 5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- save button -->
+                    <Button  x:Name="saveSongbtn" 
+                         FontSize="{StaticResource FontSizeRegular}" 
+                         Margin="0 5 0 2.5" 
+                         Padding="5" 
+                         Content="Save Edits" 
+                         Click="SaveSongbtn_Click"/>
+
+                    <!-- save button -->
+                    <Button  x:Name="RecoverSongbtn" 
+                             Background="{StaticResource cisRedBrush}"
+                             Grid.Column="1"
+                             FontSize="{StaticResource FontSizeRegular}" 
+                             Margin="2.5 5 0 2.5" 
+                             Padding="5" 
+                             Content="Remove Song Cache" 
+                             Click="RecoverSongbtn_Click"/>
+                    
+                </Grid>
+
+                <!-- Go to ChooseAsong Window -->
+                <Button x:Name="goToChooseSong" 
+                        Grid.Row="1"
+                        FontSize="{StaticResource FontSizeRegular}" 
+                        Margin="0 2.5 0 2.5" 
+                        Padding="5" 
+                        Content="Go To View Song" 
+                        Click="GoToChooseSong_Click"/>
+
+                <!-- Go to ChooseAsong Window -->
+                <Button x:Name="gotoHomeScreen" 
+                        Grid.Row="2"
+                        FontSize="{StaticResource FontSizeRegular}" 
+                        Margin="0 2.5 0 0" 
+                        Padding="5" 
+                        Content="Home" 
+                        Click="GotoHomeScreen_Click"/>
+
+            </Grid>
+
+        </Grid>
+
+    </Border>
+
+</Window>

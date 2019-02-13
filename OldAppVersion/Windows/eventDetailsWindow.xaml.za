@@ -1,0 +1,182 @@
+﻿<Window x:Class="Christ_in_song.eventDetailsWindow"
+        x:Name="eventDetailsWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Christ_in_song"
+        mc:Ignorable="d"
+        Style="{StaticResource WindowStyle}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Title="Event Details" 
+        MinHeight="540"
+        MinWidth="607"
+        Height="540" 
+        Width="481"
+        Loaded="EventDetailsWin_Loaded">
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome
+            ResizeBorderThickness="{Binding ResizeBorderThickness}"
+            CaptionHeight="{Binding TitleHeight}"
+            GlassFrameThickness="0"
+            />
+    </WindowChrome.WindowChrome>
+
+    <Border Padding="5 0 5 5">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="107*"/>
+                <RowDefinition Height="111*"/>
+                <RowDefinition Height="29*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="22*"/>
+                        <RowDefinition Height="28*"/>
+                        <RowDefinition Height="25*"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Event Name -->
+                    <TextBox x:Name="EventName"
+                         Tag="Type the Event Name"
+                         FontWeight="Regular"
+                         Padding="0 5 0 0"
+                         Grid.Row="0" 
+                         FontFamily="{StaticResource LatoRegular}"
+                         FontSize="{StaticResource FontSizeRegular}" 
+                         HorizontalContentAlignment="Center"/>
+
+                    <!-- Note to user -->
+                    <TextBlock Grid.Row="1" 
+                           TextWrapping="Wrap"
+                           Text="Click Browse to look for the Poster/image of the Event named above."
+                           Foreground="{StaticResource BackgroundLightBrush}"
+                           FontSize="{StaticResource FontSizeRegular}"
+                           TextAlignment="Center"
+                           Margin="0,0,0,0"/>
+
+                    <!-- Browse Button -->
+                    <Button x:Name="EventPosterBtn"
+                            Grid.Row="2"
+                            Margin="0 0 0 5"
+                            FontFamily="{StaticResource LatoRegular}"
+                            Content="Browse"
+                            Click="EventPosterBtn_Click"/>
+
+
+                </Grid>
+
+                <!-- Image to show selected poster -->
+                <Image  x:Name="EventPosterNameImgbox"
+                                Grid.Column="1"
+                                Margin="5 5 5 0"
+                             />
+
+            </Grid>
+
+
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0*"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="1" >
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="301*"/>
+                            <ColumnDefinition Width="296*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Grid.Column="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="86*"/>
+                                <RowDefinition Height="86*"/>
+                                <RowDefinition Height="86*"/>
+                            </Grid.RowDefinitions>
+
+                            <!-- Add event button -->
+                            <Button Grid.Row="0" 
+                                    x:Name="addEvent"
+                                    Margin="0 5 5 2.5" 
+                                    Content="Add Event" 
+                                    Click="AddEvent_Click"/>
+
+                            <!-- View Event button -->
+                            <Button Grid.Row="1" 
+                                    x:Name="ViewImage"
+                                    IsEnabled="False"
+                                    Margin="0 2.5 5 2.5" 
+                                    Content="View Event" 
+                                    Click="ViewImage_Click"/>
+
+                            <Grid Grid.Row="2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <!-- Full screen view -->
+                                <Button  Grid.Column="0"
+                                         x:Name="ViewAsFullScreen"
+                                         IsEnabled="False"
+                                         Margin="0 2.5 5 5" 
+                                         Padding="5 0 0 0"
+                                         Content="Fullscreen &#xD;&#xA;View Poster" 
+                                         Click="ViewAsFullScreen_Click"/>
+                                
+                                <!-- Remove poster -->
+                                <Button  Grid.Column="1"
+                                         Background="{StaticResource cisRedBrush}"
+                                         x:Name="RemoveEvent"
+                                         IsEnabled="False"
+                                         Margin="0 2.5 5 5" 
+                                         Padding="0 0 0 0"
+                                         Content="Remove &#xD;&#xA;Event Poster" 
+                                         FontSize="{StaticResource FontSizeRegular}"
+                                         Click="RemoveEvent_Click"/>
+
+
+                            </Grid>
+                        </Grid>
+
+                        <!-- Display list of events -->
+                        <ListBox Grid.Column="1"
+                                 x:Name="ListOfEventsStored" 
+                                 Background="Transparent"
+                                 Margin="5,5,5,5" 
+                                 SelectionChanged="ListOfEventsStored_SelectionChanged">
+
+                        </ListBox>
+
+
+                    </Grid>
+
+                </Grid>
+
+            </Grid>
+
+            <!-- Home button -->
+            <Button Grid.Row="2" 
+                    x:Name="homebtn" 
+                    FontSize="20" 
+                    Margin="0 5" 
+                    Padding="5" 
+                    Content="Home" 
+                    Click="Homebtn_Click"/>
+
+        </Grid>
+
+    </Border>
+
+</Window>

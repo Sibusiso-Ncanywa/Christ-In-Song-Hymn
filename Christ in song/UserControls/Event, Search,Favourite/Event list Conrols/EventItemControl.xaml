@@ -1,0 +1,159 @@
+﻿<UserControl x:Class="Christ_in_song.EventItemControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Christ_in_song"
+             xmlns:core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+             mc:Ignorable="d"
+             Height="100"
+             d:DesignHeight="80"
+             d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <Style x:Key="ContentStyle"
+               TargetType="{x:Type ContentControl}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ContentControl}">
+
+                        <Border x:Name="Background"
+                                Padding="0 0 8 0"
+                                Background="{StaticResource translucentsBG}"
+                                BorderBrush="{StaticResource cisBlueBrush}"
+                                BorderThickness="0 0 0 1"
+                                CornerRadius="15"
+                                Margin="0 5 10 5">
+                            
+                            <!-- Content  -->
+                            <Grid x:Name="Container"
+                                  Background="Transparent">
+
+                                <Grid.ColumnDefinitions>
+                                    <!-- Picture of event-->
+                                    <ColumnDefinition Width="Auto" />
+                                    <!-- Details of event -->
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <!-- New event Added indicator -->
+                                <Border Width="3"
+                                        Background="{StaticResource cisRedBrush}"
+                                        HorizontalAlignment="Left"
+                                        Panel.ZIndex="5"
+                                        CornerRadius="20"
+                                        Visibility="{Binding IsNewEvent, Converter={local:BooleanToVisiblityConverter}}" />
+
+                                <!-- Details of event -->
+                                <Border Grid.Column="0"
+                                        Padding="1">
+
+                                    <Border Width="{Binding ActualHeight, RelativeSource={RelativeSource Self}}"
+                                            CornerRadius="1">
+                                        
+                                        <local:ImageHolder DataContext="{Binding}" />
+
+                                    </Border>
+
+                                </Border>
+
+                                <Border Grid.Column="1"
+                                        Padding="0 0 5 0">
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="Auto" />
+                                        </Grid.ColumnDefinitions>
+
+                                        <!-- Name of event -->
+                                        <TextBlock Text="{Binding NameOfEvent}"
+                                                   Grid.Column="0"
+                                                   VerticalAlignment="Center"
+                                                   TextTrimming="CharacterEllipsis"
+                                                   Foreground="{StaticResource cisBlueBrush}"
+                                                   FontSize="{StaticResource FontSizeLarge}"
+                                                   FontFamily="{StaticResource LatoRegular}"
+                                                   Margin="10" />
+
+                                        <Border BorderBrush="{StaticResource cisOrangeBrush}" 
+                                                Grid.Column="1"
+                                                BorderThickness="2 0 2 0"
+                                                CornerRadius="15"
+                                                Margin="0 5 0 5">
+                                            <Grid >
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="*"/>
+                                                    <RowDefinition Height="*"/>
+                                                </Grid.RowDefinitions>
+
+                                                <!-- The view event button -->
+                                                <Button Content="View Event"
+                                                        Background="{StaticResource cisGreenBrush}"
+                                                        Padding="10 5"
+                                                        Margin="5"
+                                                        Command="{Binding ViewEventCommand}"/>
+
+                                                <!-- Remove event button -->
+                                                <Button Content="Remove Event"
+                                                        Grid.Row="1"
+                                                        Background="{StaticResource cisRedBrush}"
+                                                        Padding="10 5"
+                                                        Margin="5"
+                                                        Command="{Binding RemoveEventCommand}"/>
+                                            </Grid>
+                                        </Border>
+                                    </Grid>
+                                </Border>
+                            </Grid>
+                        </Border>
+
+                        <!-- Hover effect -->
+                        <ControlTemplate.Triggers>
+
+                            <DataTrigger Binding="{Binding IsSelected}"
+                                         Value="True">
+                                <Setter Property="Background"
+                                        TargetName="Background"
+                                        Value="{StaticResource ForegroundDarkBrush}" />
+                            </DataTrigger>
+
+                            <EventTrigger RoutedEvent="MouseEnter">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation To="{StaticResource cisVeryLightBlue}"
+                                                        Duration="0:0:0.4"
+                                                        Storyboard.TargetName="Container"
+                                                        Storyboard.TargetProperty="Background.Color" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeave">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation From="{StaticResource cisVeryLightBlue}"
+                                                        Duration="0:0:0.4"
+                                                        Storyboard.TargetName="Container"
+                                                        Storyboard.TargetProperty="Background.Color" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <Trigger Property="IsEnabled"
+                                     Value="False">
+                                <Setter Property="Background"
+                                        TargetName="Container"
+                                        Value="{StaticResource ForegroundDarkBrush}" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <ContentControl 
+                    Style="{StaticResource ContentStyle}"
+                    DataContext="{Binding}"/>
+
+
+</UserControl>

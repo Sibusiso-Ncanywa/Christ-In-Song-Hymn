@@ -1,0 +1,120 @@
+﻿<UserControl x:Class="Christ_in_song.SearchResultListMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Christ_in_song"
+             xmlns:Core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" 
+             d:DesignWidth="300">
+
+    <!-- Favorite Songs -->
+    <UserControl.Template>
+        <ControlTemplate TargetType="UserControl">
+            
+            <!-- The side menu -->
+            <Border>
+                <Grid>
+                      <Grid.RowDefinitions>
+                          <RowDefinition Height="Auto"/>
+                          <RowDefinition Height="*"/>
+                      </Grid.RowDefinitions>
+
+                    <!-- Failure message -->
+                        <local:FailureMessage Panel.ZIndex="2"
+                                                    Grid.Row="1"
+                                                    Margin="0"
+                                                    VerticalAlignment="Top"
+                                                    HorizontalAlignment="Right"
+                                                    Height="Auto"
+                                                    Visibility="{Binding SearchItemNotFound, Converter={local:BoolToVisiblityConverter}}"
+                                                    local:AnimateSlideInFromRightProperty.Value="{Binding SearchItemNotFound}"/>
+
+                    <!-- Search Results -->
+                      <Border Grid.Row="0">
+
+                          <!-- Content -->
+                          <Grid Margin="5 0 5 0">
+                              <Grid.RowDefinitions>
+                                  <RowDefinition Height="Auto" />
+                                  <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+
+                              <!-- Searching text -->
+                              <Border Grid.Row="0">
+                                  <TextBlock Text="Searching..."
+                                                   local:IsBusyProperty.Value="{Binding SearchIsRunning}"
+                                                   Grid.Row="0"
+                                                   Foreground="{StaticResource BackgroundLightBrush}"
+                                                   HorizontalAlignment="Center"
+                                                   FontSize="{StaticResource FontSizeLarge}"
+                                                   FontFamily="{StaticResource KalamBold}" />
+
+                              </Border>
+
+                              <StackPanel Grid.Row="1" >
+
+                                  <!-- Close Icon and Search bar -->
+                                  <Grid>
+                                      <Grid.ColumnDefinitions>
+                                          <ColumnDefinition Width="Auto"/>
+                                          <ColumnDefinition Width="*"/>
+                                      </Grid.ColumnDefinitions>
+
+                                      <!-- Close Icon -->
+                                      <Border CornerRadius="125" 
+                                                Margin="5" 
+                                                Grid.Column="0" 
+                                                Height="Auto" 
+                                                Grid.Row="0"
+                                                VerticalAlignment="Center"
+                                                BorderBrush="{StaticResource cisRedBrush}"
+                                                BorderThickness="2">
+
+                                          <Button x:Name="CloseTheSearch"
+                                                     Grid.Column="0"
+                                                     FontSize="{StaticResource FontSizeLarge}"
+                                                     Background="{StaticResource closeIconIMG}"
+                                                     Style="{StaticResource IconGrowButton}"
+                                                     Height="25"
+                                                     Padding="5 0 5 0"
+                                                     VerticalAlignment="Center"
+                                                     Command="{Binding CloseSearchCommand}" />
+
+                                      </Border>
+
+                                      <!-- Input for song number -->
+                                      <TextBox Grid.Column="1" 
+                                                  x:Name="SongTitleGiven"
+                                                  Margin="5"
+                                                  Padding="10 0 10 0" 
+                                                  local:IsFocusedProperty.Value="{Binding SearchIsOpen}"
+                                                  FontFamily="{StaticResource LatoRegular}"
+                                                  FontSize="{StaticResource FontSizeRegular}"
+                                                  Style="{StaticResource Base}" 
+                                                  Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}"
+                                                  Tag="Search by Title...">
+
+                                          <TextBox.InputBindings>
+                                              <!-- Clear text on escape  -->
+                                              <KeyBinding Command="{Binding ClearSearchCommand}" Key="Esc"/>
+                                              <KeyBinding Command="{Binding SearchCommand}" Key="Return"/>
+                                          </TextBox.InputBindings>
+
+                                      </TextBox>
+                                  </Grid>
+                              </StackPanel>
+
+                         </Grid>
+                     </Border>
+
+                       <!-- Displays the content here -->
+                       <ContentPresenter Grid.Row="1"/>
+
+                </Grid>
+            </Border>
+            
+        </ControlTemplate>
+    </UserControl.Template>
+</UserControl>

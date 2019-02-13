@@ -1,0 +1,69 @@
+﻿<Window x:Class="Christ_in_song.DoxologyWindow"
+        x:Name="DoxologyWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Christ_in_song"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Style="{StaticResource WindowStyle}"
+        WindowStartupLocation="CenterScreen"
+        Title="Doxology" 
+        MinHeight="665"
+        Height="666" 
+        Width="687"
+        MinWidth="686"
+        Loaded="DoxologyWin_Loaded">
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome
+            ResizeBorderThickness="{Binding ResizeBorderThickness}"
+            CaptionHeight="{Binding TitleHeight}"
+            GlassFrameThickness="0"
+            />
+    </WindowChrome.WindowChrome>
+
+    <Border Padding="5 0 5 5">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="23*"/>
+                <RowDefinition Height="268*"/>
+                <RowDefinition Height="32*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Doxology label -->
+            <TextBlock Grid.Row="0" x:Name="DoxologyName" 
+                       Padding="0 5 0 0"
+                       TextAlignment="Center"
+                       FontFamily="{StaticResource LatoBold}"
+                       Foreground="{StaticResource BackgroundLightBrush}"
+                       FontSize="{StaticResource FontSizeLarge}" 
+                       Text="Praise God"/>
+
+            <!-- Display lyrics -->
+            <TextBlock Grid.Row="1" x:Name="editsongLyricsTextBlock" 
+                     Margin="0 10 0 5"
+                     Padding="10"
+                     Foreground="{StaticResource BackgroundVeryLightBrush}"
+                     TextWrapping="Wrap"
+                     FontSize="{StaticResource FontSizeLarge}"
+                     FontFamily="{StaticResource ComicSansBold}"
+                     Background="{StaticResource ViewSongBackground}"
+                     TextAlignment="Center"/>
+
+            <!-- Home button -->
+            <Button Grid.Row="2" 
+                    x:Name="homebtn" 
+                    FontSize="{StaticResource FontSizeRegular}" 
+                    Margin="0 5" 
+                    Padding="1" 
+                    Content="Home" 
+                    Click="Homebtn_Click"/>
+
+        </Grid>
+
+    </Border>
+
+</Window>

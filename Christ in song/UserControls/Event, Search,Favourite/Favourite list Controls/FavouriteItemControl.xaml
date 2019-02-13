@@ -1,0 +1,141 @@
+﻿<UserControl x:Class="Christ_in_song.FavouriteItemControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Christ_in_song"
+             xmlns:core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+             mc:Ignorable="d" 
+             d:DesignHeight="160" d:DesignWidth="350">
+
+    <UserControl.Resources>
+        <Style x:Key="ContentStyle" TargetType="{x:Type ContentControl}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ContentControl}">
+                        <Border  BorderThickness="4">
+                            <Grid>
+                                <!-- Row for the menu -->
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                        
+                                <!-- The content -->
+                                <Grid Background="{StaticResource ForegroundLightBrush}"
+                                      x:Name="Container"
+                                      Margin="0 0 10 0" 
+                                      Grid.Row="0">
+
+                                    <Grid.ColumnDefinitions>
+                                        <!-- The Initials of the hymn -->
+                                        <ColumnDefinition Width="Auto"/>
+                                        <!-- The song details -->
+                                        <ColumnDefinition Width="*"/>
+                                        <!-- View and Remove button -->
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+
+                                
+                                    <!-- The new favourites indicator -->
+                                    <Border Grid.Column="0" 
+                                            Width="4" 
+                                            HorizontalAlignment="Left"
+                                            Visibility="{Binding NewFavourite, Converter={local:BooleanToVisiblityConverter},ConverterParameter=True}"
+                                            Background="{StaticResource cisGreenBrush}"/>
+
+                                    <!-- The Initials of the song -->
+                                    <Border Grid.Column="0" Padding="8">
+
+                                    <!-- The background color -->
+                                    <Border Background="{Binding BackgroundRGB, Converter={local:StringRGBToBrushConverter}}"
+                                              Width="{Binding ActualHeight, RelativeSource={RelativeSource Self}}"
+                                              Height="70"
+                                              CornerRadius="{Binding ActualHeight, RelativeSource={RelativeSource Self}}"
+                                              Margin="0 0 0 0">
+
+                                        <!-- The initials of the song -->
+                                        <TextBlock Text="{Binding Inintials}"
+                                                    HorizontalAlignment="Center"
+                                                    VerticalAlignment="Center"
+                                                    Foreground="{StaticResource BackgroundVeryLightBrush}"
+                                                    FontSize="{StaticResource FontSizeRegular}"
+                                                    FontFamily="{StaticResource ComicSansRegular}"/>
+
+                                    </Border>
+                                </Border>
+                                
+                                    <!-- The main text -->
+                                    <StackPanel Grid.Column="1" VerticalAlignment="Center">
+
+                                        <!-- The name of the song -->
+                                        <TextBlock Text="{Binding Name}" 
+                                                   x:Name="NameOfSong"
+                                                   TextTrimming="CharacterEllipsis"
+                                                   HorizontalAlignment="Left"
+                                                   TextAlignment="Left"
+                                                   Foreground="{StaticResource cisGreenishBrush}"
+                                                   FontSize="{StaticResource FontSizeAverage}"
+                                                   FontFamily="{StaticResource ComicSansRegular}"/>
+
+                                        <!-- The Song number and Hymn type -->
+                                        <TextBlock Text="{Binding SongNumberAndType}"
+                                                    TextTrimming="CharacterEllipsis"
+                                                    FontSize="{StaticResource FontSizeSmall}"
+                                                    FontFamily="{StaticResource ComicSansRegular}"/>
+
+                                    </StackPanel>
+
+                                    <!-- The View/Remove Favourite song -->
+                                    <Button Grid.Column="2" 
+                                              Width="40"
+                                              Height="70"
+                                              Style="{StaticResource IconGrowButton}" 
+                                              Background="{StaticResource HiddenMenuView}"
+                                              Command="{Binding ShowMenuCommand}"/>
+
+                                </Grid>
+                            
+                                <!-- The menu -->
+                                <local:ViewAndRemoveButton Grid.Row="1"
+                                                                    Margin="0 10 0 0"
+                                                                    Visibility="{Binding IsShowingMenu, Converter={local:BooleanToVisiblityConverter},UpdateSourceTrigger=PropertyChanged}"
+                                                                    local:AnimateSlideInFromBottomProperty.Value="{Binding IsShowingMenu}"/>
+
+                            </Grid>
+                        
+                        </Border>
+                        <!-- Hover Effect -->
+                        <ControlTemplate.Triggers>
+                            <EventTrigger RoutedEvent="MouseEnter">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation To="{StaticResource cisBlue}" Duration="0:0:0.4" Storyboard.TargetName="Container" Storyboard.TargetProperty="Background.Color" />
+                                        <ColorAnimation To="{StaticResource ForegroundLight}" Duration="0:0:0.4" Storyboard.TargetName="NameOfSong" Storyboard.TargetProperty="Foreground.Color" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeave">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation From="{StaticResource cisBlue}" Duration="0:0:0.4" Storyboard.TargetName="Container" Storyboard.TargetProperty="Background.Color" />
+                                        <ColorAnimation From="{StaticResource ForegroundLight}" Duration="0:0:0.4" Storyboard.TargetName="NameOfSong" Storyboard.TargetProperty="Foreground.Color" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Background" TargetName="Container" Value="{StaticResource ForegroundDarkBrush}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <ContentControl Style="{StaticResource ContentStyle}" 
+                      d:DataContext="{x:Static core:FavouriteItemDesignViewModel.Instance}"/>
+
+
+</UserControl>

@@ -1,0 +1,470 @@
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\ChristInSong.Core.dll.config
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\ChristInSong.Core.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\ChristInSong.Core.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\netstandard.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.AppContext.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.Concurrent.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.NonGeneric.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.Specialized.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Console.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Data.Common.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Contracts.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Debug.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Process.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Tools.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Tracing.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Drawing.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Dynamic.Runtime.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Globalization.Calendars.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Globalization.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Globalization.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.Compression.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.IsolatedStorage.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.Pipes.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.Expressions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.Parallel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.Queryable.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Http.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.NameResolution.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.NetworkInformation.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Ping.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Requests.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Security.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Sockets.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.WebSockets.Client.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.WebSockets.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.ObjectModel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Reflection.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Reflection.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Reflection.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Resources.Reader.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Resources.ResourceManager.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Resources.Writer.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Handles.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.InteropServices.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Numerics.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Claims.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Principal.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.SecureString.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Text.Encoding.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Text.RegularExpressions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Overlapped.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Tasks.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Thread.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.ThreadPool.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Timer.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.ValueTuple.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.ReaderWriter.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XDocument.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XmlDocument.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XmlSerializer.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XPath.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Dna.Framework.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Newtonsoft.Json.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Ninject.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\PropertyChanged.Fody.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Buffers.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.Annotations.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Memory.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Numerics.Vectors.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Dna.Framework.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Newtonsoft.Json.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Newtonsoft.Json.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\Ninject.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\PropertyChanged.Fody.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Buffers.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Memory.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Numerics.Vectors.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.csprojAssemblyReference.cache
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.g.resources
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.csproj.CoreCompileInputs.cache
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.csproj.CopyComplete
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\ChristInSong.Core.dll.config
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\ChristInSong.Core.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\ChristInSong.Core.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\netstandard.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.AppContext.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.Concurrent.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.NonGeneric.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.Specialized.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Console.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Data.Common.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Contracts.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Debug.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Process.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Tools.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Tracing.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Drawing.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Dynamic.Runtime.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Globalization.Calendars.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Globalization.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Globalization.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.Compression.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.IsolatedStorage.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.Pipes.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.Expressions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.Parallel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.Queryable.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Http.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.NameResolution.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.NetworkInformation.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Ping.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Requests.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Security.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Sockets.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.WebSockets.Client.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.WebSockets.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.ObjectModel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Reflection.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Reflection.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Reflection.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Resources.Reader.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Resources.ResourceManager.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Resources.Writer.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Handles.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.InteropServices.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Numerics.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Claims.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Principal.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.SecureString.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Text.Encoding.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Text.RegularExpressions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Overlapped.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Tasks.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Thread.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.ThreadPool.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Timer.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.ValueTuple.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.ReaderWriter.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XDocument.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XmlDocument.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XmlSerializer.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XPath.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Dna.Framework.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Newtonsoft.Json.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Ninject.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\PropertyChanged.Fody.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Buffers.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.Annotations.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Memory.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Numerics.Vectors.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Dna.Framework.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Newtonsoft.Json.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Newtonsoft.Json.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\Ninject.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\PropertyChanged.Fody.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Buffers.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Memory.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Numerics.Vectors.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.csprojAssemblyReference.cache
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.g.resources
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.csproj.CoreCompileInputs.cache
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.csproj.CopyComplete
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\Testing\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\ChristInSong.Core.dll.config
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\ChristInSong.Core.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\ChristInSong.Core.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\netstandard.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.AppContext.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.Concurrent.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.NonGeneric.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Collections.Specialized.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Console.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Data.Common.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Contracts.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Debug.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Process.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Tools.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Diagnostics.Tracing.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Drawing.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Dynamic.Runtime.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Globalization.Calendars.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Globalization.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Globalization.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.Compression.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.IsolatedStorage.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.Pipes.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.Expressions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.Parallel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Linq.Queryable.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Http.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.NameResolution.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.NetworkInformation.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Ping.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Requests.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Security.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.Sockets.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.WebSockets.Client.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Net.WebSockets.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.ObjectModel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Reflection.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Reflection.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Reflection.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Resources.Reader.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Resources.ResourceManager.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Resources.Writer.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Handles.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.InteropServices.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Numerics.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Claims.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.Principal.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Security.SecureString.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Text.Encoding.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Text.RegularExpressions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Overlapped.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Tasks.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Thread.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.ThreadPool.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Threading.Timer.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.ValueTuple.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.ReaderWriter.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XDocument.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XmlDocument.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XmlSerializer.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XPath.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Dna.Framework.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Newtonsoft.Json.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\PropertyChanged.Fody.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Buffers.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.ComponentModel.Annotations.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Memory.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Numerics.Vectors.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Dna.Framework.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Newtonsoft.Json.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\Newtonsoft.Json.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\PropertyChanged.Fody.pdb
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Buffers.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Memory.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Numerics.Vectors.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.csprojAssemblyReference.cache
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.g.resources
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.csproj.CoreCompileInputs.cache
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.csproj.CopyComplete
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.dll
+H:\Business Devs\Apps\Pro-Bono Jobs\in dev\App files\Christ In Song And Advent Hymn\02 Feb 2019\with MVVM and more\ChristInSong.Core\obj\Debug\ChristInSong.Core.pdb

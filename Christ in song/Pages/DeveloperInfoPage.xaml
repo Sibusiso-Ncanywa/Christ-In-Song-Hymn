@@ -1,0 +1,213 @@
+﻿<local:BasePage  x:TypeArguments="Core:DevInfoViewModel"
+                     x:Class="Christ_in_song.DeveloperInfoPage"
+                     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                     xmlns:local="clr-namespace:Christ_in_song"
+                     xmlns:Core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+                     mc:Ignorable="d"
+                     d:DesignHeight="600"
+                     d:DesignWidth="800">
+
+    <Border Padding="5">
+        <Grid Margin="40 2 80 2"
+              VerticalAlignment="Center">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="554*"/>
+                <ColumnDefinition Width="133*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Border BorderBrush="{StaticResource cisOrangeBrush}"
+                    BorderThickness="0 0 10 0"
+                    Padding="0 0 0 0"
+                    CornerRadius="10"
+                    HorizontalAlignment="Right" 
+                    Grid.ColumnSpan="2" 
+                    Grid.RowSpan="2"
+                    Width="233"
+                    Panel.ZIndex="10" Margin="0,0,-5,5">
+                
+                <!-- Developer Image -->
+                <Image Grid.Column="1"
+                      Stretch="Uniform" 
+                       Margin="0,-71,-160,-140"
+                      Source="../Images/DevelopersImage/LizHack_smile.png"/>
+                <!-- "{Binding DeveloperImage, Converter={local:HeaderToImageConverter}}" -->
+                
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="100" Color="{StaticResource cisOrange}" Opacity="0.3" ShadowDepth="0.5"/>
+                </Border.Effect>
+            </Border>
+
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- Social Platforms -->
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Business Email Address  -->
+                    <StackPanel Orientation="Horizontal" 
+                                Grid.Row="0"
+                                Grid.Column="0">
+                        <Button Style="{StaticResource IconGrowButton}" 
+                                 Background="{Binding TheEmail, Converter={local:HeaderToImageConverter}}" 
+                                 Height="50" />
+
+                        <TextBox  Padding="10 0"
+                                     Style="{StaticResource Base}"
+                                     FontSize="{StaticResource FontSizeRegular}"
+                                     Margin="2"
+                                     FontFamily="{StaticResource LatoRegular}"
+                                     IsReadOnly="True"
+                                     Background="{StaticResource translucentsBG}"
+                                     VerticalAlignment="Center"
+                                     Foreground="{StaticResource BackgroundLightBrush}"
+                                     Text="{Binding Email}"/>
+                    </StackPanel>
+
+                    <!-- Facebook -->
+                    <StackPanel Grid.Row="1"
+                                Grid.Column="0" 
+                                Orientation="Horizontal"
+                                Margin="0 0 0 -5">
+                        <Button Style="{StaticResource IconGrowButton}" 
+                                Height="60"
+                                  Background="{Binding TheFacebook, Converter={local:HeaderToImageConverter}}"/>
+
+                        <TextBox Padding="10 0"
+                                    Style="{StaticResource Base}"
+                                    Margin="2"
+                                    FontSize="{StaticResource FontSizeRegular}"
+                                    FontFamily="{StaticResource LatoRegular}"
+                                    IsReadOnly="True"
+                                    Background="{StaticResource translucentsBG}"
+                                    VerticalAlignment="Center"
+                                    Foreground="{StaticResource BackgroundLightBrush}"
+                                    Text="{Binding Facebook}" 
+                                    TextAlignment="Center"/>
+
+                    </StackPanel>
+
+                    <!-- Instagram -->
+                    <StackPanel Grid.Row="1"
+                                Orientation="Horizontal"
+                                Grid.Column="1" 
+                                Margin="0 0 0 -5">
+                        <Button Style="{StaticResource IconGrowButton}" 
+                                Height="60"
+                                  Background="{Binding TheInstagram, Converter={local:HeaderToImageConverter}}"/>
+
+                        <TextBox Padding="10 0"
+                                    Style="{StaticResource Base}"
+                                    Margin="2"
+                                    FontFamily="{StaticResource LatoRegular}"
+                                    IsReadOnly="True"
+                                    FontSize="{StaticResource FontSizeRegular}"
+                                    Background="{StaticResource translucentsBG}"
+                                    VerticalAlignment="Center"
+                                    Foreground="{StaticResource BackgroundLightBrush}"
+                                    Text="{Binding Instagrm}"/>
+
+                    </StackPanel>
+
+                    <!-- Twitter -->
+                    <StackPanel Grid.Row="0"
+                                   Grid.Column="1"
+                                   Orientation="Horizontal">
+                        <Button Style="{StaticResource IconGrowButton}" 
+                                  Height="60"
+                                  Background="{Binding TheTwitter, Converter={local:HeaderToImageConverter}}"/>
+
+                        <TextBox Padding="10 0"
+                                    Style="{StaticResource Base}"
+                                    Margin="2"
+                                    FontSize="{StaticResource FontSizeRegular}"
+                                    FontFamily="{StaticResource LatoRegular}"
+                                    IsReadOnly="True"
+                                    Background="{StaticResource translucentsBG}"
+                                    VerticalAlignment="Center"
+                                    Foreground="{StaticResource BackgroundLightBrush}"
+                                    Text="{Binding Twitter}" FontWeight="Normal"/>
+
+                    </StackPanel>
+
+                </Grid>
+
+                <!-- About Developer section -->
+                <Border Grid.Row="1"
+                        Background="{StaticResource translucentsBG}"
+                        CornerRadius="10"
+                        BorderBrush="Yellow"
+                        BorderThickness="3"
+                        Padding="10"
+                        Margin="0 10 0 0">
+
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <!-- About Developer text -->
+                        <TextBlock Padding="0 0 0 0"
+                                    TextAlignment="Center"
+                                    FontFamily="{StaticResource LatoBold}"
+                                    FontSize="{StaticResource FontSizeXxXLarge}"
+                                    Foreground="{StaticResource BackgroundLightBrush}" 
+                                    Grid.Row="0"
+                                    Text="{Binding AboutTheDeveloper}"/>
+
+                        <!-- developer info/background -->
+                        <TextBlock TextAlignment="Justify"
+                              TextWrapping="Wrap"
+                              FontSize="{StaticResource FontSizeRegular}"
+                              Foreground="{StaticResource BackgroundLightBrush}" 
+                              Grid.Row="1" 
+                               Padding="2"
+                              Text="{Binding DevelopersBackgroundInfo}"/>
+
+                        <!-- Request for feedback -->
+                        <TextBlock TextWrapping="Wrap"
+                              Grid.Row="2"
+                              Height="Auto"
+                              TextAlignment="Center"
+                              FontSize="{StaticResource FontSizeRegular}"
+                              Foreground="Yellow"
+                              Text="{Binding DevelopersMessage}"/>
+                    </Grid>
+
+                </Border>
+
+            </Grid>
+
+            <!-- Cont.. to Hymnal button -->
+            <Button Grid.Row="1" Content="Continue To Hymns"
+                      Command="{Binding GoToHomePage}"
+                      Padding="0 10"
+                      Grid.ColumnSpan="2"
+                      Margin="0 5"/>
+
+        </Grid>
+    </Border>
+</local:BasePage>

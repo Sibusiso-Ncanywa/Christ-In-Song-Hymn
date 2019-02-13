@@ -1,0 +1,91 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Christ_in_song">
+
+    <ImageBrush x:Key="AppLogo">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Logo/AppIcon.png</ImageBrush.ImageSource>
+    </ImageBrush>
+    
+    <ImageBrush x:Key="ChurchLogo">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Logo/Church-logo.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="SDASMLogo">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Logo/sdasm-logo.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="RhodesLogo">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Logo/RhodesLogo.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="LizHackSALogo">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Logo/LizHackSA.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="closeIconIMG">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/close.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="InfoIMG">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/blueInfo.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="InfoGreenIMG">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/greenInfo.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="EventsIMG">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/Events.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="FavouriteIMG">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/Favourites.png</ImageBrush.ImageSource>
+    </ImageBrush>
+   
+    <ImageBrush x:Key="searchIcon">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/searchIcon.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="SpiningIMG">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/spin.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="ThreeDots">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/waiting.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="ApprovedSuccess">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/approved.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="HiddenMenuView">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/appIcons/HiddenMenuView.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+
+    <ImageBrush x:Key="translucentsBG" TileMode="Tile" Stretch="Fill">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Background/translucentsBG.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="Backgroundimg" TileMode="Tile" Stretch="Fill">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Background/Background.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="Light_Backgroundimg" TileMode="Tile" Stretch="Fill">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Background/Light_Background.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    <ImageBrush x:Key="HeaderTransparentBg" TileMode="Tile" Stretch="Fill">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Background/HeaderTransparentBg.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+    
+    <ImageBrush x:Key="favSongBG" TileMode="Tile" Stretch="Fill">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Background/favSongBG.png</ImageBrush.ImageSource>
+    </ImageBrush>
+    
+    <ImageBrush x:Key="ViewSongBackground" TileMode="Tile" Stretch="Fill">
+        <ImageBrush.ImageSource>pack://application:,,,/Images/Background/ViewSongBackground.png</ImageBrush.ImageSource>
+    </ImageBrush>
+
+</ResourceDictionary>

@@ -1,0 +1,90 @@
+﻿<UserControl x:Class="Christ_in_song.EditSongInstructions"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Christ_in_song"
+             xmlns:Core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+             mc:Ignorable="d">
+
+    <Grid>
+        <!-- Speech bubble rectangle -->
+        <Border CornerRadius="15"
+                Padding="1"
+                Grid.Row="1"
+                Panel.ZIndex="3"
+                Margin="5 0 8 10"
+                Background="{StaticResource cisDarkgreenBrush}">
+
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="4"
+                                  ShadowDepth="5"
+                                  Color="{StaticResource cisOrange}" />
+            </Border.Effect>
+
+            <!-- Message text -->
+            <ContentControl>
+                <Grid Width="400">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    
+                    <!-- The heading -->
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Style="{StaticResource IconButton}" 
+                                Height="60" 
+                                Background="{StaticResource InfoIMG}"/>
+                        <TextBlock Text="Info" Grid.Column="1" 
+                                   FontFamily="{StaticResource KalamBold}"
+                                   TextAlignment="Center"
+                                   Padding="0 5 0 0"
+                                   Foreground="{StaticResource BackgroundVeryLightBrush}"
+                                   FontSize="{StaticResource FontSizeXxXLarge}"
+                                   />
+                    </Grid>
+                    
+                    <StackPanel Grid.Row="1">
+                        <TextBlock Margin="10"
+                                   Foreground="{StaticResource cisVeryVeryLightBlueBrush}"
+                                   FontSize="{StaticResource FontSizeLarge}"
+                                   TextWrapping="Wrap">
+                            <Run Text="Please do not forget to"/>
+                            <Run Text="SAVE" Foreground="{StaticResource cisRedBrush}" 
+                                 FontFamily="{StaticResource LatoRegular}" 
+                                 FontSize="{StaticResource FontSizeXLarge}"/>
+                            <Run Text="your edits!"/>
+                        </TextBlock>
+
+                        <TextBlock Margin="10"
+                                    TextAlignment="Center"
+                                    Foreground="{StaticResource BackgroundLightBrush}"
+                                    FontSize="{StaticResource FontSizeLarge}"
+                                    TextWrapping="Wrap">
+                            <Run Text="You are allowed to edit the"/>
+                            <Run Text="LYRICS, and the KEY SIGNATURE."/>
+                        </TextBlock>
+
+                        <TextBlock TextAlignment="Center" Margin="10"
+                                   TextWrapping="Wrap"
+                                   FontSize="{StaticResource FontSizeLarge}"
+                                   FontFamily="{StaticResource LatoBold}"
+                                   Foreground="{StaticResource cisRedBrush}">
+                            <Run Text="The"/>
+                            <Run Text="'Remove Cache'" />
+                            <Run Text="button removes the saved edits"/>
+                        </TextBlock>
+                        
+                    </StackPanel>
+                </Grid>
+            
+            </ContentControl>
+        </Border>
+
+    </Grid>
+
+</UserControl>

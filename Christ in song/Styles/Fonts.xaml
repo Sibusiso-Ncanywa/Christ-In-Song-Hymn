@@ -1,0 +1,47 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Christ_in_song"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+       <FontFamily x:Key="LatoRegular">pack://application:,,,/Fonts/#Lato Regular</FontFamily>
+       <FontFamily x:Key="LatoThin">pack://application:,,,/Fonts/#Lato Thin</FontFamily>
+       <FontFamily x:Key="LatoBold">pack://application:,,,/Fonts/#Lato Bold</FontFamily>
+       <FontFamily x:Key="KalamBold">pack://application:,,,/Fonts/#Kalam Bold</FontFamily>
+       <FontFamily x:Key="ComicSansBold">pack://application:,,,/Fonts/#Comic Sans MS Bold</FontFamily>
+       <FontFamily x:Key="ComicSansRegular">pack://application:,,,/Fonts/#Comic Sans MS</FontFamily>
+       <FontFamily x:Key="FontAwesome">pack://application;,,,/Fonts/#Font Awesome 5 Free</FontFamily>
+
+       <!-- Creates a base style for the control elements -->
+    <Style TargetType="{x:Type Control}" x:Key="BaseStyle">
+        <Setter Property="FontFamily" Value="{StaticResource LatoThin}"/>
+    </Style>
+
+    <!-- creates a style for the textblock -->
+    <Style TargetType="{x:Type TextBlock}" x:Key="BaseTextBlockStyle">
+        <Setter Property="FontFamily" Value="{StaticResource LatoThin}"/>
+    </Style>
+    
+    <!-- sets the default style that each should inherit -->
+    <Style TargetType="{x:Type Button}" BasedOn="{StaticResource BaseStyle}"/>
+    <Style TargetType="{x:Type Label}" BasedOn="{StaticResource BaseStyle}"/>
+    <Style TargetType="{x:Type TextBox}" BasedOn="{StaticResource BaseStyle}"/>
+    <Style TargetType="{x:Type ListView}" BasedOn="{StaticResource BaseStyle}"/>
+    <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource BaseTextBlockStyle}"/>
+
+    <system:Double x:Key="FontSizeSmall">15</system:Double>
+    <system:Double x:Key="FontSizeRegular">20</system:Double>
+    <system:Double x:Key="FontSizeAverage">25</system:Double>
+    <system:Double x:Key="FontSizeLarge">30</system:Double>
+    <system:Double x:Key="FontSizeXLarge">38</system:Double>
+    <system:Double x:Key="FontSizeXxLarge">42</system:Double>
+    <system:Double x:Key="FontSizeXxXLarge">44</system:Double>
+    <system:Double x:Key="FontSizeXxXxLarge">50</system:Double>
+    <system:Double x:Key="FontSizeMasterxXLarge">58</system:Double>
+
+    <system:String x:Key="FontAwesomeEmojiIcon">&#xf118;</system:String>
+    <system:String x:Key="FontAwesomeArrowLeftIcon">&#xf060;</system:String>
+    <system:String x:Key="FontAwesomeTickIcon">&#xf00c;</system:String>
+    <system:String x:Key="FontAwesomeCloseIcon">&#xf00d;</system:String>
+    <system:String x:Key="FontAwesomeSpinner">&#xf110;</system:String>
+       
+</ResourceDictionary>

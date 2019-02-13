@@ -1,0 +1,132 @@
+﻿<local:BasePage x:TypeArguments="Core:WelcomeViewModel"
+                x:Class="Christ_in_song.WelcomePage"
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                xmlns:local="clr-namespace:Christ_in_song"
+                xmlns:Core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+                mc:Ignorable="d"
+                d:DesignHeight="550"
+                d:DesignWidth="800">
+
+
+    <Grid VerticalAlignment="Center" 
+              HorizontalAlignment="Center">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="1"
+                     Visibility="{Binding MessagesPopup.ShowMenu , 
+                                                 Converter={local:BooleanToVisiblityConverter}}">
+
+            <local:MessageFromDeveloperUserControl
+                                        DataContext="{x:Static Core:WelcomeViewModel.MessagesPopup}" 
+                                        Margin="5 0 5 0">
+
+            </local:MessageFromDeveloperUserControl>
+
+        </Grid>
+
+        <!-- It has the main content of the window -->
+        <Grid Grid.Row="2" VerticalAlignment="Center" Margin="5 0 5 0" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- Welcome note -->
+                <TextBlock Grid.Row="0"
+                              Margin="5"
+                              Padding="0 0 0 0"
+                              TextAlignment="Center"
+                              FontFamily="{StaticResource KalamBold}"
+                              FontSize="{StaticResource FontSizeMasterxXLarge}"
+                              Foreground="{StaticResource BackgroundVeryLightBrush}"
+                              TextWrapping="Wrap"
+                              Text="{Binding WelcomeMessage}"/>
+
+                <!-- A note from the developer -->
+                <TextBlock Grid.Row="1"
+                              Margin="5 10"
+                              Padding="30 0"
+                              TextAlignment="Center"
+                              FontFamily="{StaticResource LatoRegular}"
+                              FontSize="{StaticResource FontSizeRegular}"
+                              Foreground="{StaticResource cisBlueBrush}"
+                              TextWrapping="Wrap"
+                              Text="{Binding FeedBackMessage}"/>
+
+
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!-- Developer Name -->
+                <TextBlock Grid.Row="0"
+                              VerticalAlignment="Center"
+                              Foreground="{StaticResource BackgroundLightBrush}"
+                              FontSize="{StaticResource FontSizeLarge}" 
+                              HorizontalAlignment="Center"
+                              Margin="0 10 0 10"
+                              TextWrapping="Wrap"
+                              TextAlignment="Center"
+                              Text="{Binding Developer}"/>
+
+                <WrapPanel Grid.Row="1" 
+                            HorizontalAlignment="Center" 
+                            Orientation="Vertical">
+
+                    <Grid Margin="0 10 0 5" Visibility="{Binding IsItDefault , Converter={local:BooleanToVisiblityConverter}}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <!-- Show dev info button -->
+                        <Button Grid.Row="0"
+                                    Margin="0 0 0 5"
+                                    Padding="10 0 10 0"
+                                    BorderThickness="3"
+                                    FontSize="{StaticResource FontSizeLarge}"
+                                    Style="{StaticResource TextButton}"
+                                    Command="{Binding GoToDevDetails}"
+                                    Content="{Binding TheDevPageInfo}"/>
+
+                        <!-- Go to home button -->
+                        <Button x:Name="GoToHomePage"
+                                    IsDefault="{Binding IsItDefault}"
+                                    Grid.Row="1"
+                                    Margin="0 5 0 0"
+                                    Padding="0 0 0 0"
+                                    BorderThickness="3"
+                                    FontSize="{StaticResource FontSizeLarge}"
+                                    Style="{StaticResource TextButton}"
+                                    Command="{Binding GoToHomePage}"
+                                    Content="{Binding HomeButtonContent}"/>
+
+                    </Grid>
+
+                </WrapPanel>
+            </Grid>
+
+        </Grid>
+
+
+    </Grid>
+
+</local:BasePage>

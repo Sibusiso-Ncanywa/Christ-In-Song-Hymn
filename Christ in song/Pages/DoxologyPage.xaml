@@ -1,0 +1,64 @@
+﻿<local:BasePage x:TypeArguments="Core:DoxologyViewModel"
+                x:Class="Christ_in_song.DoxologyPage"
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                xmlns:local="clr-namespace:Christ_in_song"
+                xmlns:Core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+                mc:Ignorable="d"
+                d:DesignHeight="450"
+                d:DesignWidth="800">
+
+       <Border Padding="5 0 5 5"
+               Margin="20 2 20 2">
+
+              <ScrollViewer HorizontalScrollBarVisibility="Auto"
+                            VerticalScrollBarVisibility="Auto">
+
+                     <Grid>
+                            <Grid.RowDefinitions>
+                                   <RowDefinition Height="Auto" />
+                                   <RowDefinition Height="*" />
+                                   <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+
+                            <!-- Doxology label -->
+                            <TextBlock Grid.Row="0"
+                                       x:Name="DoxologyName"
+                                       Padding="0 0 0 0"
+                                       TextAlignment="Center"
+                                       FontFamily="{StaticResource LatoBold}"
+                                       Foreground="{StaticResource BackgroundLightBrush}"
+                                       FontSize="{StaticResource FontSizeLarge}"
+                                       Text="Praise God" />
+
+                            <!-- Display lyrics -->
+                            <TextBlock Grid.Row="1"
+                                       x:Name="editsongLyricsTextBlock"
+                                       Margin="0 10 0 5"
+                                       Padding="10"
+                                       Foreground="{StaticResource BackgroundVeryLightBrush}"
+                                       TextWrapping="Wrap"
+                                       Text="{Binding DoxologyLyrics}"
+                                       FontSize="{StaticResource FontSizeLarge}"
+                                       FontFamily="{StaticResource ComicSansBold}"
+                                       Background="{StaticResource ViewSongBackground}"
+                                       TextAlignment="Center" />
+
+                            <!-- Home button -->
+                            <Button Grid.Row="2"
+                                    x:Name="homebtn"
+                                    FontSize="{StaticResource FontSizeRegular}"
+                                    Margin="0 5"
+                                    Padding="1"
+                                    Command="{Binding GoToHomePage}"
+                                    Content="Home" />
+
+                     </Grid>
+
+              </ScrollViewer>
+       </Border>
+
+
+</local:BasePage>

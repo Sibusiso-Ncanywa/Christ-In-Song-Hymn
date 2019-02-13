@@ -1,0 +1,116 @@
+﻿<Window x:Class="Christ_in_song.Announcements"
+        x:Name="AnnouncementsWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Christ_in_song"
+        mc:Ignorable="d"
+        Style="{StaticResource WindowStyle}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Title="Announcements" 
+        MinHeight="693"
+        MinWidth="592"
+        Height="694" 
+        Width="593">
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome
+            ResizeBorderThickness="{Binding ResizeBorderThickness}"
+            CaptionHeight="{Binding TitleHeight}"
+            GlassFrameThickness="0"
+            />
+    </WindowChrome.WindowChrome>
+
+    <Border Padding="5 5 5 5">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="615*"/>
+                <RowDefinition Height="28*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="38*"/>
+                    <RowDefinition Height="561*"/>
+                </Grid.RowDefinitions>
+
+                <!-- find the document with Announcements -->
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="29*"/>
+                        <RowDefinition Height="39*"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0"
+                               Margin="0 -5 0 0"
+                               Padding="0 0 0 0"
+                               Foreground="{StaticResource ForegroundLightBrush}"
+                               FontFamily="{StaticResource LatoBold}"
+                               FontSize="{StaticResource FontSizeRegular}" 
+                               TextAlignment="Center"
+                               Text="Announcements"/>
+
+                    <Grid Margin="0,1,0,2" Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="90*"/>
+                            <ColumnDefinition Width="333*"/>
+                            <ColumnDefinition Width="160*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- Browse button -->
+                        <Button Grid.Column="0"
+                            Margin="0,0,2,0"
+                            Padding="0 0 0 0"
+                            FontSize="20" 
+                            Content="Browse"
+                            Click="AnnouncBrowseBtn_Click"/>
+
+                        <!-- Show document name -->
+                        <TextBlock Grid.Column="1" 
+                                   x:Name="FileNameView"
+                                   Margin="2 -5 2 0"
+                                   Padding="0 0 0 0"
+                                   FontSize="{StaticResource FontSizeRegular}"
+                                   Foreground="{StaticResource ForegroundLightBrush}"
+                                   Focusable="False"  
+                                   TextAlignment="Center"/>
+
+                        <!-- view document button -->
+                        <Button Grid.Column="2"
+                            Margin="1,0,0,0"
+                            Padding="0 0 0 0"
+                            FontSize="20" 
+                            Content="View Document"
+                            Click="ViewTheDocument_Click"/>
+
+                    </Grid>
+
+                </Grid>
+
+                <!-- Document View -->
+                <DocumentViewer
+                    x:Name="DocViewerAnnounc" 
+                    Padding="2 0 2 2" 
+                    Cursor="IBeam" 
+                    AllowDrop="False"
+                    Margin="0,1,0,0" 
+                    Grid.Row="1" 
+                    />
+            </Grid>
+
+            <!-- Home button -->
+            <Button Grid.Row="1" 
+                    x:Name="announcHomeBtn" 
+                    Padding="5" 
+                    Margin="0 2 0 0"
+                    FontSize="20" 
+                    Content="Home" 
+                    Click="AnnouncHomeBtn_Click" />
+        </Grid>
+
+    </Border>
+
+</Window>

@@ -1,0 +1,163 @@
+﻿<local:BasePage  x:TypeArguments="Core:EditSongViewModel"
+                 x:Class="Christ_in_song.EditSongPage"
+                 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                 xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                 xmlns:local="clr-namespace:Christ_in_song"
+                 xmlns:Core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+                 mc:Ignorable="d"
+                 d:DesignHeight="600"
+                 d:DesignWidth="800">
+
+    <Border Padding="5 0 5 5"
+             Margin="5">
+        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <!-- Display instructions and messages Here -->
+
+            <Grid Grid.Row="1"
+                  VerticalAlignment="Top"
+                  HorizontalAlignment="Right"
+                  Panel.ZIndex="10"
+                  Grid.RowSpan="2">
+
+                <!-- Success messages -->
+                <local:SuccessMessagesPopUp
+                    Height="Auto"
+                    Visibility="{Binding IsDoneSaving, Converter={local:BoolToVisiblityConverter}}"
+                    local:AnimateSlideInFromRightProperty.Value="{Binding IsDoneSaving}"/>
+
+                <!-- Instructions -->
+                <local:EditSongInstructions
+                    Height="Auto"
+                    Visibility="{Binding IsLoading, Converter={local:BoolToVisiblityConverter}}"
+                    local:AnimateSlideInFromRightProperty.Value="{Binding IsLoading}"/>
+               
+            </Grid>
+            
+            <Grid Grid.Row="0" Margin="0 0 0 5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="66*" />
+                    <ColumnDefinition Width="111*" />
+                    <ColumnDefinition Width="66*" />
+                    <ColumnDefinition Width="329*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Label of key signature -->
+                <TextBlock Text="Key is: "
+                           Margin="5 0 5 0"
+                           Padding="0 0 0 0"
+                           Foreground="{StaticResource BackgroundVeryLightBrush}"
+                           FontSize="{StaticResource FontSizeRegular}"
+                           Grid.Column="0"/>
+
+                <!-- The key of the song-->
+                <TextBox Style="{StaticResource Base}"
+                         Padding="0 0 0 0"
+                         Margin="5 0 5 -3"
+                         Cursor="IBeam"
+                         FontWeight="Normal"
+                         Background="{StaticResource cisVeryVeryLightBlueBrush}"
+                         Foreground="{StaticResource ForegroundVeryDarkBrush}"
+                         FontFamily="{StaticResource ComicSansBold}"
+                         FontSize="{StaticResource FontSizeRegular}"
+                         Grid.Column="1"
+                         Text="{Binding KeySignatureOfSong}"/>
+                
+                <!-- The song number -->
+                <TextBlock Padding="5 5 0 0"
+                           Margin="10 0"
+                           TextAlignment="Center"
+                           Foreground="{StaticResource BackgroundVeryLightBrush}"
+                           FontSize="{StaticResource FontSizeRegular}"
+                           Grid.Column="2"
+                           Text="{Binding TheSongNumber}"/>
+
+                <!-- The title of the song -->
+                <TextBlock Margin="5 0 0 0"
+                           Padding="5 5 0 0"
+                           Foreground="{StaticResource BackgroundVeryLightBrush}"
+                           FontSize="{StaticResource FontSizeRegular}"
+                           Grid.Column="3"
+                           Text="{Binding NameOfSong}"/>
+            
+            </Grid>
+
+            <!-- Display lyrics -->
+            <TextBox  Grid.Row="1"
+                      Style="{StaticResource Base}"
+                      TextWrapping="Wrap"
+                      Text="{Binding SongLyrics, UpdateSourceTrigger=PropertyChanged}"
+                      Margin="0 5 0 0"
+                      Cursor="IBeam"
+                      SelectionBrush="{StaticResource cisGreenishBrush}"
+                      FontFamily="{StaticResource ComicSansBold}"
+                      FontSize="{StaticResource FontSizeRegular}"
+                      AcceptsTab="True"
+                      AcceptsReturn="True"
+                      VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Auto"/>
+
+            <!-- The buttons -->
+            <Grid Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- save button -->
+                <Button  x:Name="saveSongbtn"
+                         FontSize="{StaticResource FontSizeRegular}"
+                         Margin="0 2 2.5 0"
+                         Padding="5"
+                         Content="Save Edits" 
+                         Command="{Binding SaveSongDetails}"/>
+
+                <!-- Remove cache button -->
+                <Button  x:Name="RecoverSongbtn"
+                         Background="{StaticResource cisRedBrush}"
+                         Grid.Column="1"
+                         Grid.Row="0"
+                         FontSize="{StaticResource FontSizeRegular}"
+                         Margin="2.5 2 0 0"
+                         Padding="5"
+                         Content="Remove Song Cache"
+                         Command="{Binding RemoveSongCache}"/>
+
+                <!-- Go to Display song -->
+                <Button x:Name="goToChooseSong"
+                        Grid.Row="1"
+                        FontSize="{StaticResource FontSizeRegular}"
+                        Margin="0 2 2.5 0"
+                        Padding="5"
+                        Content="Go To View Song"
+                        Command="{Binding GoToDisplaySongPage}"/>
+
+                <!-- Go to Home page -->
+                <Button x:Name="gotoHomeScreen"
+                        Grid.Row="1"
+                        Grid.Column="1"
+                        FontSize="{StaticResource FontSizeRegular}"
+                        Margin="2.5 2 0 0"
+                        Padding="5"
+                        Content="Home" 
+                        Command="{Binding GoToHomePage}"/>
+
+            </Grid>
+
+        </Grid>
+    </Border>
+
+</local:BasePage>

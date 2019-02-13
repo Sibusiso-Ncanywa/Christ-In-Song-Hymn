@@ -1,0 +1,59 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Christ_in_song">
+
+    <Color x:Key="BackgroundLight">#efefef</Color>
+    <SolidColorBrush x:Key="BackgroundLightBrush" Color="{StaticResource BackgroundLight}" />
+
+    <Color x:Key="BackgroundVeryLight">#fafafa</Color>
+    <SolidColorBrush x:Key="BackgroundVeryLightBrush" Color="{StaticResource BackgroundVeryLight}" />
+
+    <Color x:Key="ForegroundMain">#686868</Color>
+    <SolidColorBrush x:Key="ForegroundMainBrush" Color="{StaticResource ForegroundMain}" />
+
+    <Color x:Key="ForegroundVeryDark">#000000</Color>
+    <SolidColorBrush x:Key="ForegroundVeryDarkBrush" Color="{StaticResource ForegroundVeryDark}" />
+
+    <Color x:Key="ForegroundLight">#ffffff</Color>
+    <SolidColorBrush x:Key="ForegroundLightBrush" Color="{StaticResource ForegroundLight}" />
+
+    <Color x:Key="ForegroundDark">#bdbdbd</Color>
+    <SolidColorBrush x:Key="ForegroundDarkBrush" Color="{StaticResource ForegroundDark}" />
+
+    <Color x:Key="cisOrange">#ffa800</Color>
+    <SolidColorBrush x:Key="cisOrangeBrush" Color="{StaticResource cisOrange}" />
+
+    <Color x:Key="cisDarkOrange">#534800</Color>
+    <SolidColorBrush x:Key="cisDarkOrangeBrush" Color="{StaticResource cisDarkOrange}" />
+
+    <Color x:Key="cisBlue">#3099c5</Color>
+    <SolidColorBrush x:Key="cisBlueBrush" Color="{StaticResource cisBlue}" />
+
+    <Color x:Key="cisRed">#ff4747</Color>
+    <SolidColorBrush x:Key="cisRedBrush" Color="{StaticResource cisRed}" />
+
+    <Color x:Key="cisDarkRed">#A72F2F</Color>
+    <SolidColorBrush x:Key="cisDarkRedBrush" Color="{StaticResource cisDarkRed}" />
+
+
+    <Color x:Key="cisGreen">#00c541</Color>
+    <SolidColorBrush x:Key="cisGreenBrush" Color="{StaticResource cisGreen}" />
+
+    <Color x:Key="cisGreenish">#FF4DA996</Color>
+    <SolidColorBrush x:Key="cisGreenishBrush" Color="{StaticResource cisGreenish}" />
+
+    <Color x:Key="cispurplish">#713cdb</Color>
+    <SolidColorBrush x:Key="cispurplishBrush" Color="{StaticResource cispurplish}" />
+
+    <Color x:Key="cisDarkgreen">#3e6c4d</Color>
+    <SolidColorBrush x:Key="cisDarkgreenBrush" Color="{StaticResource cisDarkgreen}" />
+
+
+
+    <Color x:Key="cisVeryLightBlue">#c3e5f3</Color>
+    <SolidColorBrush x:Key="cisVeryLightBlueBrush" Color="{StaticResource cisVeryLightBlue}" />
+
+    <Color x:Key="cisVeryVeryLightBlue">#ecf6fb</Color>
+    <SolidColorBrush x:Key="cisVeryVeryLightBlueBrush" Color="{StaticResource cisVeryVeryLightBlue}" />
+
+</ResourceDictionary>

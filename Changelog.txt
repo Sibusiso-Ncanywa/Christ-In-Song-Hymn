@@ -1,0 +1,17 @@
+Version 2.0.0.3
+* Fixed loading time of announements documents.
+
+Version 2.0.0.1 => 2
+* The announcements page keeps the announcements file in memory for use later
+	-> The CATCH IS: THE APPLICATION SHOULD NOT BE CLOSED IF THE ANNOUCEMENTS FILE HAS TO BE 
+		USED AT A LATER TIME.
+
+* Added the Developer details button to the home page
+
+* Pop-up dialogs start at the center of the Application's window.
+
+* Fixed Dev info design
+
+
+Version 2.0.0.0
+ -

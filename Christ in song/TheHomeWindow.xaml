@@ -1,0 +1,67 @@
+﻿<Window x:Class="Christ_in_song.TheHomeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Christ_in_song"
+        xmlns:core="clr-namespace:ChristInSong.Core;assembly=ChristInSong.Core"
+        mc:Ignorable="d"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        Title="SDA Hymnal" 
+        Height="642" 
+        Width="1000"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Activated="TheHome_Window_Activated"
+        Deactivated="TheHome_Window_Deactivated"
+        MinHeight="{Binding WindowMinimumHeight}"
+        MinWidth="{Binding WindowMinimumWidth}"
+        Style="{StaticResource MainWindowStyle}"
+        Name="TheHome_Window">
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome
+            ResizeBorderThickness="{Binding ResizeBorderThickness}"
+            CaptionHeight="{Binding TitleHeight}"
+            GlassFrameThickness="0"/>
+    </WindowChrome.WindowChrome>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Dimmed overlay -->
+        <Border Grid.ColumnSpan="3"
+                Panel.ZIndex="10"
+                Opacity="0.7">
+            <Border Background="{StaticResource ForegroundVeryDarkBrush}"
+                      local:AnimateFadeInProperty.Value="{Binding DimmableOverlayVisible}"/>
+
+        </Border>
+        
+        <!-- Main conent -->
+        <local:PageHost x:Name="MainFrame"
+                        Grid.Column="1"
+                        d:DataContext=""
+                        DataContext="{Binding ApplicationViewModel.CurrentPage, 
+                                              Source={x:Static local:ViewModelLocator.Instance},  
+                                              Converter={local:ApplicationPageValueConverter}}"
+                        CurrentPage="{Binding}" />
+
+        <!-- Side Menu Control for favourites-->
+        <local:FavouritesSideMenu Grid.Column="0"
+                                         DataContext="{Binding ApplicationViewModel, Source={x:Static local:ViewModelLocator.Instance}}"
+                                         Width="350"
+                                         local:AnimateSlideInFromLeftProperty.Value="{Binding FavListSideMenuVisible}">
+
+            <local:FavouritesListControl  VerticalAlignment="Top"/>
+            
+        </local:FavouritesSideMenu>
+        
+    </Grid>
+
+</Window>

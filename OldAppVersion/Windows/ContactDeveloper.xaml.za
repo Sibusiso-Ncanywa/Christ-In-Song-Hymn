@@ -1,0 +1,293 @@
+﻿<Window x:Class="Christ_in_song.ContactDeveloper"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Christ_in_song"
+        mc:Ignorable="d"
+        Style="{StaticResource LoadAndHomeWindowStyle}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Title="ContactDeveloper" 
+        ResizeMode="NoResize"
+        Height="687.895" 
+        Width="566.283">
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome
+            ResizeBorderThickness="{Binding ResizeBorderThickness}"
+            CaptionHeight="{Binding TitleHeight}"
+            GlassFrameThickness="0"
+            />
+    </WindowChrome.WindowChrome>
+
+    <Border Padding="5 0 5 5">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="192*"/>
+                <RowDefinition Height="385*"/>
+                <RowDefinition Height="65"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+
+                <Image
+                    Grid.Column="0"
+                    Stretch="Fill"
+                    Source="../Images/Background/LizHack.png"/>
+
+                <TextBlock Grid.Column="1" Margin="0 5 0 0">
+                    <Grid >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/> 
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        
+                        <!-- Business Email Address -->
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            
+                            <TextBlock>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    
+                                    
+                                    <Image Grid.Column="0" Margin="5" Source="../Images/mediaLogos/Gmail.png"/>
+                                    
+                                    <StackPanel Grid.Column="1" Margin="0,0,-9,0">
+                                        <TextBlock 
+                                               HorizontalAlignment="Center"
+                                               Grid.Row="0"
+                                               TextWrapping="Wrap"
+                                               VerticalAlignment="Bottom"
+                                               Foreground="{StaticResource BackgroundLightBrush}"
+                                               Text=
+                                               "Business Email Address" 
+                                            Margin="0"/>
+                                        <TextBox
+                                            Padding="0 0 0 0"
+                                            Grid.Row="1"
+                                            FontSize="{StaticResource FontSizeSmall}"
+                                            FontFamily="{StaticResource LatoRegular}"
+                                            
+                                            IsReadOnly="True"
+                                            Background="Transparent"
+                                            VerticalAlignment="Center"
+                                            TextWrapping="Wrap"
+                                            Foreground="{StaticResource BackgroundLightBrush}"
+                                            Text="Lizhacksa@gmail.com" 
+                                            FontWeight="Normal"/>
+                                        
+                                    </StackPanel>
+                                </Grid>
+                            </TextBlock>
+                            
+                        </Grid>
+                        
+                        <!-- Facebook -->
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            
+                            <TextBlock>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    
+                                    
+                                    <Image Grid.Column="0" Margin="0" Source="../Images/mediaLogos/Facebook.png"/>
+                                    
+                                    <StackPanel Grid.Column="1">
+                                        <TextBlock 
+                                            Width="140"
+                                            Grid.Row="0"
+                                            TextWrapping="Wrap"
+                                            Padding="30 0 0 0"
+                                            HorizontalAlignment="Center"
+                                            VerticalAlignment="Bottom"
+                                            Foreground="{StaticResource BackgroundLightBrush}"
+                                            Text=
+                                            "Facebook Page" 
+                                            Margin="0,0,0,5"/>
+                                        <TextBox
+                                            Padding="0 0 0 0"
+                                            Margin="0 0 0 0"
+                                            Grid.Row="1"
+                                            FontSize="{StaticResource FontSizeSmall}"
+                                            FontFamily="{StaticResource LatoRegular}"
+                                            
+                                            IsReadOnly="True"
+                                            Background="Transparent"
+                                            VerticalAlignment="Center"
+                                            TextWrapping="Wrap"
+                                            Foreground="{StaticResource BackgroundLightBrush}"
+                                            Text="LizHack SA" FontWeight="Normal"/>
+                                    </StackPanel>
+                                </Grid>
+                            </TextBlock>
+                            
+                        </Grid>
+                        
+                        <!-- Instagram -->
+                        <Grid Grid.Row="2">
+                            <TextBlock>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    
+                                    
+                                    <Image Grid.Column="0" Margin="5" Source="../Images/mediaLogos/Instagram.png"/>
+                                    
+                                    <StackPanel Grid.Column="1">
+                                        <TextBlock 
+                                               Padding="35 0 0 0"
+                                               Grid.Row="0"
+                                                Width="140"
+                                               TextWrapping="Wrap"
+                                               VerticalAlignment="Bottom"
+                                               Foreground="{StaticResource BackgroundLightBrush}"
+                                               Text=
+                                               "Instagram" 
+                                                Margin="0,0,0,5"/>
+                                        <TextBox
+                                            Padding="0 0 0 0"
+                                            Margin="0 0 0 0"
+                                            Grid.Row="1"
+                                            FontSize="{StaticResource FontSizeSmall}"
+                                            FontFamily="{StaticResource LatoRegular}"
+                                            
+                                            IsReadOnly="True"
+                                            Background="Transparent"
+                                            VerticalAlignment="Center"
+                                            TextWrapping="Wrap"
+                                            Foreground="{StaticResource BackgroundLightBrush}"
+                                            Text="Lizalise_sbudar" FontWeight="Normal"/>
+                                        
+                                    </StackPanel>
+                                </Grid>
+                            </TextBlock>
+                            
+                        </Grid>
+                        
+                        <!-- Twitter -->
+                        <Grid Grid.Row="3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            
+                            <TextBlock>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    
+                                    
+                                    <Image Grid.Column="0" Margin="5" Source="../Images/mediaLogos/Twitter.png"/>
+                                    
+                                    <StackPanel Grid.Column="1">
+                                        <TextBlock 
+                                              Padding="45 0 0 0"
+                                               Grid.Row="0"
+                                               Width="140"
+                                               TextWrapping="Wrap"
+                                               VerticalAlignment="Bottom"
+                                               Foreground="{StaticResource BackgroundLightBrush}"
+                                               Text=
+                                               "Twitter" Margin="0,0,0,3"/>
+                                        <TextBox
+                                            Padding="0 0 0 0"
+                                            Margin="0 0 0 0"
+                                            Grid.Row="1"
+                                            FontSize="{StaticResource FontSizeSmall}"
+                                            FontFamily="{StaticResource LatoRegular}"
+                                            
+                                            IsReadOnly="True"
+                                            Background="Transparent"
+                                            VerticalAlignment="Center"
+                                            TextWrapping="Wrap"
+                                            Foreground="{StaticResource BackgroundLightBrush}"
+                                            Text="Lzalise_sbudar" FontWeight="Normal"/>
+                                        
+                                    </StackPanel>
+                                </Grid>
+                            </TextBlock>
+                            
+                        </Grid>
+                        
+                    </Grid>
+                </TextBlock>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="67*"/>
+                    <RowDefinition Height="162*"/>
+                    <RowDefinition Height="90*"/>
+                    <RowDefinition Height="66*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock 
+                    Padding="0 15 0 0"
+                    TextAlignment="Center"
+                    FontFamily="{StaticResource LatoBold}"
+                    FontSize="40"
+                    Foreground="{StaticResource BackgroundLightBrush}" 
+                    Grid.Row="0" 
+                    Text="About the developer"/>
+
+                <TextBlock 
+                    TextAlignment="Justify"
+                    TextWrapping="Wrap"
+                    FontSize="{StaticResource FontSizeRegular}"
+                    Foreground="{StaticResource BackgroundLightBrush}" 
+                    Grid.Row="1" 
+                    Text=
+                    "I'm Sibusiso Ncanywa, but I prefer LizHack. LizHack is a combination of my second name 'Lizalise' and my 'sort-of' passion for hacking. I enjoy GOOD music hence the development of this application. My current favorite songs in Christ In Song is number 47 and number 52. Sing me these songs an you'll make my day.
+                    "/>
+
+                <TextBlock
+                    TextAlignment="Justify"
+                    TextWrapping="Wrap"
+                    FontSize="{StaticResource FontSizeRegular}"
+                    Foreground="{StaticResource BackgroundLightBrush}"
+                    Grid.Row="2"
+                    Text=
+                    "Academics @Rhodes University... In 2019 I will be doing my academic third year in Computer Science and Music Theory And Analysis. I know it's a rare combinantion but I like it."/>
+
+                <TextBlock
+                    Margin="0 10 0 10"
+                    TextWrapping="Wrap"
+                    Grid.Row="3"
+                    TextAlignment="Center"
+                    FontSize="{StaticResource FontSizeRegular}"
+                    Foreground="Yellow"
+                    Text="If you like this version please give feedback so that I can make more and nicer applications.
+                    "/>
+            </Grid>
+
+            <Grid Grid.Row="2">
+                    <Button Content="Continue To Hymns"
+                            Click="GotHymns"/>
+                </Grid>
+        </Grid>
+
+    </Border>
+
+</Window>
